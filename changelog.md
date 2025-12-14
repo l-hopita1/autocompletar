@@ -1,0 +1,9 @@
+- 14 febrero 2025 - [2.1.0]
+    - Se modifica el formumario para tener una unica sección de tipo de equipo.
+    - El formulario pasa de 7 columnas a 4 columnas.
+- 5 diciembre 2025 - [2.2.0]
+    - Se modulariza el código al encapsular la función de marcadores de tablas: insertarTabla
+    - Se insertan varios loggeos para saber hasta dónde se ejecuta del código.
+    - Se insertan varios errores cuando falta algo en los datos.
+- 14 diciembre 2025 - [2.2.1]
+    - Se agregan try/catch para evitar que rompa el código en caso de encontrar errores.
