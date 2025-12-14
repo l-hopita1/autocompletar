@@ -7,3 +7,6 @@
     - Se insertan varios errores cuando falta algo en los datos.
 - 14 diciembre 2025 - [2.2.1]
     - Se agregan try/catch para evitar que rompa el código en caso de encontrar errores.
+- 14 diciembre 2026 - [2.3.0]
+    - Se envía un email para enviar los errores en caso de existir.
+    - Se simplifica la sintaxis de errores para una lectura más simple.
